@@ -56,6 +56,8 @@ CartTest3 - Delete Items
 
     Delete Item from Cart
 
+    Close Browser
+
 CartTest4 - Total Products
 
     Open Browser Session
@@ -75,6 +77,7 @@ CartTest4 - Total Products
 
     Verify Total Item
 
+    Close Browser
 
 *** Keywords ***
 Open Browser Session
